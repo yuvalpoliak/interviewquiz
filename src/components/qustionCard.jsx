@@ -43,6 +43,7 @@ flex-direction: column;
 width: 100%;
 align-items: center;
   justify-content: center;
+  margin-right: 2rem;
 `
 const QuestionText = styled.h3`
   font-size: 24px;
